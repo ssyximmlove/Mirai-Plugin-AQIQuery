@@ -1,0 +1,6 @@
+name: "空气质量查询"
+author: "Sam Song"
+version: "1.0.0"
+main: "com.revunit.aqiquery.main"
+info: " Web: ssyximmlove.xyz"
+depends: []
